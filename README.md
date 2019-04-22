@@ -48,15 +48,15 @@ rinkeby: {
 
 ### Task 4 Modify the front end of the DAPP
 * Lookup a star by ID using tokenIdToStarInfo() (you will have to add code for this in your index.html and index.js files)
-You can find my stars on the Rinkeby network onder the following address (This is my Ethereum Address):
+* You can find my stars on the Rinkeby network onder the following address (This is my Ethereum Address):
 https://rinkeby.etherscan.io/address/0x4e46995798c0b352f653c8f137c43d0f1cdabb00 
 
-This Star was created on the frontend (This is the transaction ID):
+* This Star was created on the frontend (This is the transaction ID):
 https://rinkeby.etherscan.io/tx/0xf91a3511b9d3aa49a3e47cf223811bfa4ed88ec89d9409b1db028c1ab11050b4
 
-This is the message that is displayed on the frontend:
-New Star Owner is 0x4E46995798C0b352F653C8f137C43d0f1CDaBb00.
-Star: Id = 12, Name = Star Nico Rinkeby
+* This is the message that is displayed on the frontend:
+* New Star Owner is 0x4E46995798C0b352F653C8f137C43d0f1CDaBb00.
+* Star: Id = 12, Name = Star Nico Rinkeby
 
 
 ### Project Submission Instructions
