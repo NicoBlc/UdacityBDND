@@ -2,7 +2,7 @@
 
 ## Project 5: Ethereum Star Notary Nico
 I added the most important files for review directly under the master branche.
-If you want to download all the source code, simply download the zip file and run with Node.
+If you want to download all the source code, simply download the zip file and run the fileswith Node.js and Truffle.
 Below you can read the more detailed steps that I took during the creation and testing of the project...
 
 ### Task 1
