@@ -23,14 +23,14 @@ Summary
 > Total deployments:   2
 > Final cost:          0.05200468 ETH
 * iMac-van-Nico:Project 5 StarNotary Nico nicobijl$ truffle test
-  ✓ can Create a Star (157ms)
-  ✓ lets user1 put up their star for sale (338ms)
-  ✓ lets user1 get the funds after the sale (333ms)
-  ✓ lets user2 buy a star, if it is put up for sale (345ms)
-  ✓ lets user2 buy a star and decreases its balance in ether (268ms)
-  ✓ token name and token symbol are added properly (83ms)
-  ✓ 2 users can exchange their stars (356ms)
-  ✓ lets a user transfer a star (206ms)
+  * ✓ can Create a Star (157ms)
+  * ✓ lets user1 put up their star for sale (338ms)
+  * ✓ lets user1 get the funds after the sale (333ms)
+  * ✓ lets user2 buy a star, if it is put up for sale (345ms)
+  * ✓ lets user2 buy a star and decreases its balance in ether (268ms)
+  * ✓ token name and token symbol are added properly (83ms)
+  * ✓ 2 users can exchange their stars (356ms)
+  * ✓ lets a user transfer a star (206ms)
 
   8 passing (2s)
 
